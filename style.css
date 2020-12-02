@@ -17,10 +17,12 @@ body {
     justify-content: center;
 }
 
-.instagram-wrapper {
+.instagram-wrappper {
     display: flex;
     align-items: center;
     justify-content: start;
+    width: 60%;
+    height: 100vh;
 }
 
 .instagram-phone {
